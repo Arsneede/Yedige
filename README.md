@@ -1,3 +1,3 @@
 # Yedigefirst commit to Yedige_one
 
- Conflict2
+Conflict_resolved
